@@ -2,14 +2,6 @@
 
 ###
 
-<h3 align="center">Desktop</h3>
-
-###
-
-<h3 align="center">Mobile</h3>
-
-###
-
 <br clear="both">
 
 <h2 align="left">Tecnologias</h2>
