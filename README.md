@@ -1,8 +1,4 @@
-<h1 align="center">Ignite Feed<br><br>Ignite - React da Rocketseat.</h1>
-
-###
-
-<br clear="both">
+<h1 align="center">Ignite Feed</h1>
 
 <h2 align="left">Tecnologias</h2>
 
