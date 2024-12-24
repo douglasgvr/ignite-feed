@@ -19,8 +19,8 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/JoyceFatima/Ignite-Feed.git
-$ cd Ignite-Feed
+$ git clone git@github.com:douglasgvr/ignite-feed.git
+$ cd ignite-feed
 ```
 
 Follow the steps below:
