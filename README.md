@@ -40,4 +40,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-<p align="center">Made by <a href="https://github.com/JoyceFatima">Joyce de Fátima</a></p>
+<p align="center">Made by <a href="https://github.com/JoyceFatima">Douglas Coelho</a></p>
