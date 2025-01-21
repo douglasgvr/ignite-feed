@@ -2,12 +2,12 @@ import styles from "./Post.module.css";
 
 export function Post() {
   return (
-    <article className={StyleSheet.post}>
+    <article className={styles.post}>
       <header>
         <div className={styles.author}>
           <img
             className={styles.cover}
-            src="https://plus.unsplash.com/premium_photo-1678565999588-08fdd0b1410b?q=50&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            src="https://github.com/douglasgvr.png"
           />
           <div className={styles.authorInfo}>
             <strong>Douglas Coelho</strong>
@@ -25,10 +25,12 @@ export function Post() {
           no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀
         </p>{" "}
         <p>
-          👉 <a href="#">jane.design/doctorcare </a>{" "}
+          👉 {" "}<a href="#">jane.design/doctorcare </a>{" "}
         </p>
         <p>
-          <a href="#">#novoprojeto #nlw #rocketseat</a>
+          <a href="#">#novoprojeto</a>{" "}
+          <a href="#">#nlw</a>{" "}
+          <a href="#">#rocketseat</a>{" "}
         </p>
       </div>
     </article>

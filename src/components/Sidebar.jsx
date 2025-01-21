@@ -16,7 +16,7 @@ export function Sidebar() {
           alt="foto perfil"
         />
         <strong>Douglas Coelho</strong>
-        <span>Java Spring - ReactJs Web Developer</span>
+        <span>Full-stack Java Spring / Reactjs</span>
       </div>
 
       <footer>
